@@ -1,2 +1,2 @@
 # Car_Wash
-UAE General Services Application
+General Services Application
